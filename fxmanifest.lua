@@ -16,7 +16,3 @@ files {
 client_script 'client.lua'
 
 loadscreen 'web/index.html'
-
-escrow_ignore {
-    'client.lua'
-}
